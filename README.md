@@ -16,6 +16,7 @@ you must have telegram account and create new app with new token and put this to
 ##### if you choice any of main sections then Then the first question will appear
 ![N|Solid](https://image.ibb.co/k522dJ/4.jpg)
 ##### if the answer goes to the next question automatically (and so on)
+##### Finally, the number of questions and the number of correct answers are calculated and the result is shown to the user
 # License 
 GNU GPL License
 > Author : Eslam Ayman 
