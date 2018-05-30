@@ -1,6 +1,6 @@
 # Competition Telegram-Chat-Bot (PHP)
 ## About
-This app simulate chat bot on telegram application thie project using `telegram API`
+This app simulate chat bot on telegram application . the project using `telegram API`
 
 ## To Run
 ### You will need:
