@@ -1,8 +1,8 @@
 # Competition Telegram-Chat-Bot (PHP)
 ## About
-This app simulate chat bot on telegram application . the project using `telegram API`.
-
 Competition Bot is a Telegram Chat Bot which is self asking bot based on your answer .
+
+This app simulate chat bot on telegram application . the project using `telegram API`.
 
 ## To Run
 ### You will need:
