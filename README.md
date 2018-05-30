@@ -1,4 +1,4 @@
-# Telegram Chat Bot (PHP)
+# Competition Telegram-Chat-Bot (PHP)
 ## About
 This app semulate chat bot on telegram application thie project using `telegram API`
 
